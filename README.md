@@ -3,7 +3,10 @@
 - 🔭 I’m currently working in a bank in the international trade sector. 
 - 🌱 I’m currently learning about Functional Test, Business Inteligence, Data Analytics and Data Science.
 - 👯 I’m looking to collaborate in a Information Technology company.
-- 📫 How to reach me: linkedin.com/in/andressabernini
+- 📫 How to reach me: <div> <a href="https://www.linkedin.com/in/andressabernini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://medium.com/@andressabernini" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+    
+  </div>
 
 
  <div>
@@ -14,10 +17,5 @@
   
   ##
   
-  <div>
-    <a href="https://www.linkedin.com/in/andressabernini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://medium.com/@andressabernini" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-    
-  </div>
   
     
